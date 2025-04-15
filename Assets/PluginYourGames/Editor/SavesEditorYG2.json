@@ -1,0 +1,19 @@
+{
+    "stringKeys": [
+        "SelectedPlane",
+        "SelectedSkin"
+    ],
+    "stringValues": [
+        "СУ-25 Грач",
+        "starter"
+    ],
+    "floatKeys": [],
+    "floatValues": [],
+    "intKeys": [
+        "PlayerMoney"
+    ],
+    "intValues": [
+        0
+    ],
+    "idSave": 1
+}

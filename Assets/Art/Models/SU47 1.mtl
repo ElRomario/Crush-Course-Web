@@ -1,0 +1,12 @@
+# Made in Blockbench 4.12.2
+newmtl m_c0b44390-aad7-0f72-3775-11220af9da4d
+map_Kd SU47texture.png
+newmtl m_a1a6d56f-8a5c-b269-ff00-d7382917fba4
+map_Kd texture.png
+newmtl m_976f9607-18d0-00d1-778e-c187721c0fa4
+map_Kd SU47cockpit.png
+newmtl m_5d19fb3d-07a7-d6e1-4a2d-211eac1d2e90
+map_Kd SU47choto.png
+newmtl m_64eb8867-5a81-5535-6d75-188161dd3702
+map_Kd SU47Engine.png
+newmtl none
